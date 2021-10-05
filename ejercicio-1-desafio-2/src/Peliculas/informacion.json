@@ -1,0 +1,134 @@
+{
+  "comedia": [
+    {
+      "id": "item1",
+      "image": "https://pics.filmaffinity.com/The_Long_Dumb_Road-834648847-large.jpg",
+      "title": "The Long Dumb Road",
+      "url": "https://www.youtube.com/watch?v=ovppEeV1uV0"
+    },
+    {
+      "id": "item2",
+      "image": "https://resizing.flixster.com/a8ishoBfTXZqy_l-fzUJp6IHB_E=/206x305/v2/https://flxt.tmsimg.com/assets/p90711_p_v10_af.jpg",
+      "title": "Fun with Dick and Jane",
+      "url": "https://www.youtube.com/watch?v=LvOv3veA13Q"
+    },
+    {
+      "id": "item3",
+      "image": "https://resizing.flixster.com/ZMc5pUTQl6CJenSDJQgSxl6ejJw=/206x305/v2/https://flxt.tmsimg.com/assets/p34914_p_v10_af.jpg",
+      "title": "Shaun of The Dead",
+      "url": "https://www.youtube.com/watch?v=LIfcaZ4pC-4"
+    },
+    {
+      "id": "item4",
+      "image": "https://resizing.flixster.com/AYH0ikP22nRNSQhZyfwBjd8DBlU=/206x305/v2/https://flxt.tmsimg.com/assets/p16942_p_v13_al.jpg",
+      "title": "Clueless",
+      "url": "https://www.youtube.com/watch?v=Mgjwq1ZzdPQ"
+    },
+    {
+      "id": "item5",
+      "image": "https://resizing.flixster.com/hJEvBaJasdXhaw5mATOIPxvRo60=/206x305/v2/https://flxt.tmsimg.com/NowShowing/101380/101380_ab.jpg",
+      "title": "Bridesmaids",
+      "url": "https://www.youtube.com/watch?v=FNppLrmdyug"
+    },
+    {
+      "id": "item6",
+      "image": "https://resizing.flixster.com/82IpZT5NsN-vZoTQ-YfwHEZzXVA=/206x305/v2/https://flxt.tmsimg.com/NowShowing/59303/59303_aa.jpg",
+      "title": "Superbad",
+      "url": "https://www.youtube.com/watch?v=4eaZ_48ZYog"
+    },
+    {
+      "id": "item7",
+      "image": "https://resizing.flixster.com/jQyF5X66X6A5iiFyhhz7af07HZk=/206x305/v2/https://flxt.tmsimg.com/NowShowing/37966/37966_aa.jpg",
+      "title": "Mean Girls",
+      "url": "https://www.youtube.com/watch?v=oDU84nmSDZY"
+    }
+  ],
+  "accion": [
+    {
+      "id": "item1",
+      "image": "https://resizing.flixster.com/QjeBkzpqqCHcl9sk0kz_1a1Hu-M=/206x305/v2/https://flxt.tmsimg.com/NowShowing/140378/140378_ab.jpg",
+      "title": "Mad Max: Fury Road",
+      "url": "https://www.youtube.com/watch?v=hEJnMQG9ev8"
+    },
+    {
+      "id": "item2",
+      "image": "https://resizing.flixster.com/P3XrfzcI9ycfMEdR6iqwPPv0rvU=/206x305/v2/https://resizing.flixster.com/dH6cVqiBByzFjrjLDr9NW9dSdQY=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzMxOGI1YzBhLWMyMjEtNGUxMS1iM2Q0LWQ4OGMyYzQyZjQyYS53ZWJw",
+      "title": "Black Panther",
+      "url": "https://www.youtube.com/watch?v=xjDjIWPwcPU"
+    },
+    {
+      "id": "item3",
+      "image": "https://resizing.flixster.com/3Qqub489aOFnU3bfl835A_dYALk=/206x305/v2/https://resizing.flixster.com/j8RBPQAWUY99VK2IcLRbSdZs0o4=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2QxZjE5ZDgzLTRiY2MtNDFkYS04NWQ4LTRkYzc1ZTAwNWE2NC53ZWJw",
+      "title": "Avengers: Endgame",
+      "url": "https://www.youtube.com/watch?v=TcMBFSGVi1c"
+    },
+    {
+      "id": "item4",
+      "image": "https://resizing.flixster.com/-O33A0udc47to3YGKWRd_NQ28Qk=/206x305/v2/https://resizing.flixster.com/EELTBoC1bnQ2xZ-Sfbja5hKvvg8=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzYxYjZlMDAwLWQxZTctNDYyNS04YTRlLTc5YjcxY2VmYmFlZC53ZWJw",
+      "title": "Dunkirk",
+      "url": "https://www.youtube.com/watch?v=F-eMt3SrfFU"
+    },
+    {
+      "id": "item5",
+      "image": "https://resizing.flixster.com/BJdoV9gCUvC4IfGhFuO9gOzvPHo=/206x305/v2/https://resizing.flixster.com/NpxNMdoSptZ9wsRtc7xs5atNC9k=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzZlZmZhNjViLWZkNGQtNDZiNS1iNjkwLTY5OGE1MzkxMDk4Ni53ZWJw",
+      "title": "Star Wars: The Last Jedi",
+      "url": "https://www.youtube.com/watch?v=Q0CbN8sfihY"
+    },
+    {
+      "id": "item6",
+      "image": "https://resizing.flixster.com/wNIWwNsgBNWnUiCNrk3EVZ5O7qE=/206x305/v2/https://resizing.flixster.com/6AZDGtepBnlO1ytECJMraDU4TFY=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzdiZDJmN2M0LWNjYTQtNDIxMy1iNTQ3LTBjMTJkMjhlZWYwOS53ZWJw",
+      "title": "The Incredibles 2",
+      "url": "https://www.youtube.com/watch?v=i5qOzqD9Rms"
+    },
+    {
+      "id": "item7",
+      "image": "https://resizing.flixster.com/bqbhmZLVtUaUrdyNBqLzPKqLGeY=/206x305/v2/https://resizing.flixster.com/wcnZwJKjL2YL-NNi_WJ3fd7Ku8g=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2QwZmU3ZDZlLTRhMmItNDgxMy04NjM1LWViNmE3ZjkzNjhkNC53ZWJw",
+      "title": "Baby Driver",
+      "url": "https://www.youtube.com/watch?v=D9YZw_X5UzQ"
+    }
+  ],
+  "romance": [
+    {
+      "id": "item1",
+      "image": "https://resizing.flixster.com/v8tkDkYZhy017--LLNLuu0jOpFI=/206x305/v2/https://flxt.tmsimg.com/NowShowing/40652/40652_aa.jpg",
+      "title": "Before Sunset",
+      "url": "https://www.youtube.com/watch?v=oI3UuneLcyU"
+    },
+    {
+      "id": "item2",
+      "image": "https://resizing.flixster.com/BuLfTLtvjvHniUulceFSC4oYrH4=/206x305/v2/https://flxt.tmsimg.com/NowShowing/35896/35896_aa.jpg",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "url": "https://www.youtube.com/watch?v=yE-f1alkq9I"
+    },
+    {
+      "id": "item3",
+      "image": "https://resizing.flixster.com/otdOhmkHtU-EZ65S0sB5dGEYDLk=/206x305/v2/https://flxt.tmsimg.com/NowShowing/60946/60946_aa.jpg",
+      "title": "Enchanted",
+      "url": "https://www.youtube.com/watch?v=IJwUFq8uOr0"
+    },
+    {
+      "id": "item4",
+      "image": "https://resizing.flixster.com/dHrOm83gONCP6RbhAMw1NjisdoM=/206x305/v2/https://flxt.tmsimg.com/NowShowing/103248/103248_aa.jpg",
+      "title": "Midnight in Paris",
+      "url": "https://www.youtube.com/watch?v=FAfR8omt-CY"
+    },
+    {
+      "id": "item5",
+      "image": "https://resizing.flixster.com/iNqFy9HRjsY6VGyG8J1P_4lVrsY=/206x305/v2/https://resizing.flixster.com/S1SfANQIIQcyAfS7aCdBFR-AK2g=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzRhODUxNzRmLWM1M2QtNGVkMy05ODFmLWM2NGNjNzM5ZDFiNy53ZWJw",
+      "title": "Your Name",
+      "url": "https://www.youtube.com/watch?v=xU47nhruN-Q"
+    },
+    {
+      "id": "item6",
+      "image": "https://resizing.flixster.com/BxZIv5JMCG2E7_t9ZX3yeqL6WLY=/206x305/v2/https://flxt.tmsimg.com/NowShowing/10236/10236_aa.jpg",
+      "title": "Titanic",
+      "url": "https://www.youtube.com/watch?v=kVrqfYjkTdQ"
+    },
+    {
+      "id": "item7",
+      "image": "https://resizing.flixster.com/e-2DxJFOGonK_1IsT-G3OLSzYyE=/206x305/v2/https://flxt.tmsimg.com/NowShowing/129180/129180_ae.jpg",
+      "title": "Her",
+      "url": "https://www.youtube.com/watch?v=6QRvTv_tpw0"
+    }
+  ]
+}

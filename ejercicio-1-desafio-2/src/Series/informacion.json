@@ -1,0 +1,158 @@
+{
+  "comedia": [
+    {
+      "id": "item1",
+      "image": "https://resizing.flixster.com/cVfqy-m8VRh6oVmsBc1FUv8SA6o=/206x305/v2/https://flxt.tmsimg.com/assets/p185008_b_v8_ah.jpg",
+      "title": "The Office",
+      "seasons": "9",
+      "url": "https://www.youtube.com/watch?v=gO8N3L_aERg"
+    },
+    {
+      "id": "item2",
+      "image": "https://resizing.flixster.com/M-sL9p75xTjZT-fk9m8gi2eljGQ=/130x187/v2/https://flxt.tmsimg.com/assets/p185124_b_v8_aj.jpg",
+      "title": "How I Met Your Mother",
+      "seasons": "9",
+      "url": "https://www.youtube.com/watch?v=C8-4jMTOUJI"
+    },
+    {
+      "id": "item3",
+      "image": "https://resizing.flixster.com/JY3D6yUQfJfgVss5qK_WSfyl8hw=/fit-in/180x240/v2/https://flxt.tmsimg.com/assets/p11782669_b1t_v8_aa.jpg",
+      "title": "Crazy Ex-Girlfriend",
+      "seasons": "4",
+      "url": "https://www.youtube.com/watch?v=9eKnMzilZfY"
+    },
+    {
+      "id": "item4",
+      "image": "https://resizing.flixster.com/3b70_L6jPp63OZ51fp3_AsuINi0=/130x187/v2/https://flxt.tmsimg.com/assets/p185203_b_v8_ac.jpg",
+      "title": "30 Rock",
+      "seasons": "7",
+      "url": "https://www.youtube.com/watch?v=aYGbfKuBBBk"
+    },
+    {
+      "id": "item5",
+      "image": "https://resizing.flixster.com/GuUzoFd25u_mBX8G0tDuR9gaKBA=/206x305/v2/https://flxt.tmsimg.com/assets/p185554_b_v10_az.jpg",
+      "title": "The Big Bang Theory",
+      "seasons": "12",
+      "url": "https://www.youtube.com/watch?v=WBb3fojgW0Q"
+    },
+    {
+      "id": "item6",
+      "image": "https://resizing.flixster.com/NherLuZpltrDKyGRi-4BQO_FxwI=/206x305/v2/https://flxt.tmsimg.com/assets/p8677772_b_v8_al.jpg",
+      "title": "New Girl",
+      "seasons": "7",
+      "url": "https://www.youtube.com/watch?v=19jvAM1oZRA"
+    },
+
+    {
+      "id": "item7",
+      "image": "https://resizing.flixster.com/fNmzRQQkpseSRoLKOjCPcw8cDog=/206x305/v2/https://flxt.tmsimg.com/assets/p3560360_b_v13_og.jpg",
+      "title": "Modern Family",
+      "seasons": "11",
+      "url": "https://www.youtube.com/watch?v=Ub_lfN2VMIo"
+    }
+  ],
+  "fantasia": [
+    {
+      "id": "item1",
+      "image": "https://resizing.flixster.com/l1TZO6S6QZLzdMhURJfyLix-mAM=/206x305/v2/https://flxt.tmsimg.com/assets/p3563021_b_v8_bb.jpg",
+      "title": "The Vampire Diaries",
+      "seasons": "8",
+      "url": "https://www.youtube.com/watch?v=BmVmhjjkN4E"
+    },
+    {
+      "id": "item2",
+      "image": "https://resizing.flixster.com/xvHek75xt4vxUPKFYxKGpNUoqMU=/206x305/v2/https://resizing.flixster.com/RxDemRYDV9P4Q67TftIpHmIzoWc=/ems.ZW1zLXByZC1hc3NldHMvdHZzZXJpZXMvUlRUVjI1NzU1MS53ZWJw",
+      "title": "Outlander",
+      "seasons": "5",
+      "url": "https://www.youtube.com/watch?v=PFFKjptRr7Y"
+    },
+    {
+      "id": "item3",
+      "image": "https://resizing.flixster.com/lVA0JSdSBCJmqiG1Jv1gTz9EI-o=/206x305/v2/https://flxt.tmsimg.com/assets/p15786445_b_v13_af.jpg",
+      "title": "Chilling Adventures of Sabrina",
+      "seasons": "4",
+      "url": "https://www.youtube.com/watch?v=51fOujPcgIE"
+    },
+    {
+      "id": "item4",
+      "image": "https://resizing.flixster.com/YZOEuoU98mcOMlQnTnG6Y8PG8bY=/206x305/v2/https://resizing.flixster.com/aRg0Wfo5WZUEcBuhoSC3UgYCzJM=/ems.ZW1zLXByZC1hc3NldHMvdHZzZXJpZXMvUlRUVjkxNjQ4Ny53ZWJw",
+      "title": "Loki",
+      "seasons": "1",
+      "url": "https://www.youtube.com/watch?v=nW948Va-l10"
+    },
+    {
+      "id": "item5",
+      "image": "https://resizing.flixster.com/5CIEwgQij2u0-Bw2jHoAHgmaxpY=/206x305/v2/https://resizing.flixster.com/fScGKEA8wDUkc3QXUDNXmJuI64M=/ems.ZW1zLXByZC1hc3NldHMvdHZzZXJpZXMvUlRUVjM0NjQ1Ny53ZWJw",
+      "title": "Titans",
+      "seasons": "3",
+      "url": "https://www.youtube.com/watch?v=_JX89CWH5MU"
+    },
+    {
+      "id": "item6",
+      "image": "https://resizing.flixster.com/wCJ4WhGTi9WNAMmlsabEzDstj4I=/206x305/v2/https://flxt.tmsimg.com/assets/p185113_b_v13_bg.jpg",
+      "title": "Supernatural",
+      "seasons": "15",
+      "url": "https://www.youtube.com/watch?v=t-775JyzDTk"
+    },
+
+    {
+      "id": "item7",
+      "image": "https://resizing.flixster.com/dxajEAyrXDkg0oW473LualUMpls=/206x305/v2/https://resizing.flixster.com/NQvihFeQ-r89ZXR04ZKjOlsVoH8=/ems.ZW1zLXByZC1hc3NldHMvdHZzZXJpZXMvUlRUVjQxMTc3OC53ZWJw",
+      "title": "Umbrella Academy",
+      "seasons": "2",
+      "url": "https://www.youtube.com/watch?v=KHucKOK-Vik"
+    }
+  ],
+  "aventura": [
+    {
+      "id": "item1",
+      "image": "https://resizing.flixster.com/KG8pA6qJLFKmUC8kmhV9EXMvZ18=/206x305/v2/https://flxt.tmsimg.com/assets/p16787843_b_v10_ab.jpg",
+      "title": "Demon Slayer",
+      "seasons": "1",
+      "url": "https://www.youtube.com/watch?v=JKNz9RGft_0"
+    },
+    {
+      "id": "item2",
+      "image": "https://resizing.flixster.com/bwdYwNP4Zg0GQg16V1sxx7dwSR8=/206x305/v2/https://flxt.tmsimg.com/assets/p19204904_b_v8_aa.jpg",
+      "title": "Lupin",
+      "seasons": "1",
+      "url": "https://www.youtube.com/watch?v=yX5Py7lL5dw"
+    },
+    {
+      "id": "item3",
+      "image": "https://resizing.flixster.com/I7lr7ZIqEjaWA19RoGeX-opBj4Q=/206x305/v2/https://flxt.tmsimg.com/assets/p9263605_b_v13_an.jpg",
+      "title": "Arrow",
+      "seasons": "8",
+      "url": "https://www.youtube.com/watch?v=2yrviapP5uY"
+    },
+    {
+      "id": "item4",
+      "image": "https://resizing.flixster.com/tcFbJMLD57x1U8CJB_egxC8F7p0=/206x305/v2/https://flxt.tmsimg.com/assets/p12274735_b_v13_bg.jpg",
+      "title": "Miraculous: Tales of Ladybug and Cat Noir",
+      "seasons": "4",
+      "url": "https://www.youtube.com/watch?v=HQnLw77Kbu4"
+    },
+    {
+      "id": "item5",
+      "image": "https://resizing.flixster.com/NvzOg3Prk2mPSmweQfPcpy0rksI=/206x305/v2/https://resizing.flixster.com/VmtqQcM0GCly9uZ10HGOV1TaeRk=/ems.ZW1zLXByZC1hc3NldHMvdHZzZXJpZXMvUlRUVjgzNDc3Ni53ZWJw",
+      "title": "WandaVision",
+      "seasons": "1",
+      "url": "https://www.youtube.com/watch?v=sj9J2ecsSpo"
+    },
+    {
+      "id": "item6",
+      "image": "https://resizing.flixster.com/fRhznrBZLqrUwLN2RxO7u-KfXjI=/206x305/v2/https://resizing.flixster.com/-0QZrRDJcXdayXgbqWa9-AC5q8I=/ems.ZW1zLXByZC1hc3NldHMvdHZzZXJpZXMvUlRUVjg0MDQ2Mi53ZWJw",
+      "title": "The Falcon and The Winter Soldier",
+      "seasons": "1",
+      "url": "https://www.youtube.com/watch?v=IWBsDaFWyTE"
+    },
+
+    {
+      "id": "item7",
+      "image": "https://resizing.flixster.com/GvtRsEF5VoPZlsyhmNCsS1ApQNc=/206x305/v2/https://flxt.tmsimg.com/assets/p9155926_b_v10_au.jpg",
+      "title": "Vikings",
+      "seasons": "6",
+      "url": "https://www.youtube.com/watch?v=9GgxinPwAGc"
+    }
+  ]
+}
